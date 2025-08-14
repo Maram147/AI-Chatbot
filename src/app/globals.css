@@ -24,3 +24,6 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.large-shadow {
+  box-shadow: 0 0 300px rgba(157, 0, 255, 0.496);
+}
